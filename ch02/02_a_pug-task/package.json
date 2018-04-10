@@ -1,0 +1,17 @@
+{
+  "name": "forkbuildfirst",
+  "version": "0.1.1",
+  "homepage": "https://github.com/alegorico/forkJSBuildfirst",
+  "author": {
+    "name": "Alejandro G",
+    "email": "mierdeneitor@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alegorico/forkJSBuildfirst.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
