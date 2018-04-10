@@ -1,5 +1,7 @@
 # PUG Task
 
+[![pug-template-logo.png][1]][2]
+
 This example shows how to configure the PUG Grunt task
 
 To run this example, write one of the following commands in your terminal.
@@ -10,3 +12,5 @@ To run this example, write one of the following commands in your terminal.
 ```shell
 grunt pug:compile
 ```
+  [1]:https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-64.svg
+  [2]: https://pugjs.org  "PUG"
