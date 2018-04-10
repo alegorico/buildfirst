@@ -12,6 +12,7 @@
     "url": "git://github.com/alegorico/forkJSBuildfirst.git"
   },
   "devDependencies": {
-    "grunt": "~0.4.2"
+    "grunt": "~0.4.2",
+    "grunt-contrib-pug": "^1.0.0"
   }
 }
